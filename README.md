@@ -17,11 +17,11 @@ The platform aims to:
 
 
 ### My Task
- [x] Create a new project on Github.
- [x] Break down the project into 2-3 phases
- [x] Convert the above requirements into user stories for the App.
- - Create a user flow chart
- - Create a user journey, this could be displayed as a simple table.
+- [x]  Create a new project on Github.
+- [x] Break down the project into 2-3 phases
+- [x]  Convert the above requirements into user stories for the App.
+- [ ] Create a user flow chart
+- [ ]  Create a user journey, this could be displayed as a simple table.
 
 
 ## user stories
