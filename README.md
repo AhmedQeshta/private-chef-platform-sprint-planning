@@ -59,8 +59,14 @@ The platform aims to:
 
 ## 👉🏻 User Journey
 
-First: The user enters and sees a welcome message and some instructions and ways to help.
-After that, the user goes to watch the chefs.
-Then when selecting a chef, he can place an order for him, and enter all the required information.
-Upon receiving the order, the chef will send a confirmation message to the user
-After confirmation, successful completion of the task, both the user and the chef will be able to rate each other.
+
+> First: The user enters and sees a welcome message and some instructions and ways to help.
+
+> After that, the user goes to watch the chefs.
+
+> Then when selecting a chef, he can place an order for him, and enter all the required information.
+
+> Upon receiving the order, the chef will send a confirmation message to the user
+
+> After confirmation, of the successful completion of the task, both the user and the chef will be able to rate each other.
+
