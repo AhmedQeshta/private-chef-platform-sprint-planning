@@ -20,7 +20,7 @@ The platform aims to:
 - [x]  Create a new project on Github.
 - [x] Break down the project into 2-3 phases
 - [x]  Convert the above requirements into user stories for the App.
-- [ ] Create a user flow chart
+- [x] Create a user flow chart
 - [ ]  Create a user journey, this could be displayed as a simple table.
 
 
@@ -45,4 +45,15 @@ The platform aims to:
 - _As a ` Chef `_  I want signup and login.
 - _As a ` Chef `_  I want to see my profile and update it.
 - _As a ` Chef `_  I want the dashboard to organize my orders.
+
+
+## Create a user as [ Chef and user ] flow chart
+
+### Chef flow chart
+
+![Blank diagram](https://user-images.githubusercontent.com/38624002/169539048-c9a87d76-5a4b-49db-ae64-715cb6444904.jpeg)
+
+### User flow chart
+![private-chef-platform-sprint-planning](https://user-images.githubusercontent.com/38624002/169544220-e70914ac-cbb1-42c9-805a-b88bb583473d.jpeg)
+
 
