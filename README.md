@@ -21,10 +21,10 @@ The platform aims to:
 - [x] Break down the project into 2-3 phases
 - [x]  Convert the above requirements into user stories for the App.
 - [x] Create a user flow chart
-- [ ]  Create a user journey, this could be displayed as a simple table.
+- [x]  Create a user journey, this could be displayed as a simple table.
 
 
-## user stories
+## 👉🏻 user stories
 
 ---------------------------------  User ------------------------------------- 
 - _As a ` User `_  I want to choose a menu.
@@ -47,7 +47,7 @@ The platform aims to:
 - _As a ` Chef `_  I want the dashboard to organize my orders.
 
 
-## Create a user as [ Chef and user ] flow chart
+## 👉🏻 Create a user as [ Chef and user ] flow chart
 
 ### Chef flow chart
 
@@ -57,3 +57,10 @@ The platform aims to:
 ![private-chef-platform-sprint-planning](https://user-images.githubusercontent.com/38624002/169544220-e70914ac-cbb1-42c9-805a-b88bb583473d.jpeg)
 
 
+## 👉🏻 User Journey
+
+First: The user enters and sees a welcome message and some instructions and ways to help.
+After that, the user goes to watch the chefs.
+Then when selecting a chef, he can place an order for him, and enter all the required information.
+Upon receiving the order, the chef will send a confirmation message to the user
+After confirmation, successful completion of the task, both the user and the chef will be able to rate each other.
