@@ -17,8 +17,32 @@ The platform aims to:
 
 
 ### My Task
- - Create a new project on Github.
- - Break down the project into 2-3 phases
- - Convert the above requirements into user stories for the App.
+ [x] Create a new project on Github.
+ [x] Break down the project into 2-3 phases
+ [x] Convert the above requirements into user stories for the App.
  - Create a user flow chart
  - Create a user journey, this could be displayed as a simple table.
+
+
+## user stories
+
+---------------------------------  User ------------------------------------- 
+- _As a ` User `_  I want to choose a menu.
+- _As a ` User `_  I want to submit booking details (my Email, dates, address, number of guests, etc.).
+- _As a ` User `_  I want to receive a notification by mail about the details.
+- _As a ` User `_  I want to check the cooking equipment and ingredients required.
+- _As a ` User `_  I want to check the type of food.
+- _As a ` User `_  I want to Link to the guest invitation to send it.
+- _As a ` User `_  I want to know a chef's arrival and departure time.
+- _As a ` User `_  I want to choose the gender.
+- _As a ` User `_  I don't need signup or login.
+- _As a ` User `_  I want to pay in many different ways in person or online.
+- _As a ` User `_  I want to get special offers and discounts.
+- _As a ` User `_  I can submit feedback.
+
+---------------------------------  chef  ------------------------------------- 
+- _As a ` Chef `_  I can submit feedback.
+- _As a ` Chef `_  I want signup and login.
+- _As a ` Chef `_  I want to see my profile and update it.
+- _As a ` Chef `_  I want the dashboard to organize my orders.
+
